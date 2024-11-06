@@ -1,8 +1,7 @@
 # Dejame escuchar la musica 🎹
 
 ## Descripción
-Este proyecto analiza datos de transmisión de música en línea para comparar las preferencias musicales de dos ciudades: Springfield y Shelbyville. El enfoque principal es probar la siguiente hipótesis:
-**Hipótesis**: La actividad de los usuarios y las usuarias difiere según el día de la semana y la ciudad donde se encuentre.
+Este proyecto analiza datos de transmisión de música en línea para comparar las preferencias musicales de dos ciudades: Springfield y Shelbyville.
 
 ## Objetivos
 El enfoque principal es probar la siguiente hipótesis: La actividad de los usuarios y las usuarias difiere según el día de la semana y la ciudad donde se encuentre.
