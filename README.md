@@ -17,7 +17,7 @@ El enfoque principal es probar la siguiente hipótesis: La actividad de los usua
 
 ## Herramientas utilizadas
 - **Python**: pandas
-- **Jupyter Notebooks**: para análisis interactivo y visualización.
+- **Jupyter Notebooks**: para análisis interactivo.
 
 ## Pasos de análisis
  1. **Descripción de los datos**: se examinan los datos y se identifican posibles problemas
