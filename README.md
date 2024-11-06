@@ -31,3 +31,4 @@ El análisis de los datos procesados, utilizando agrupaciones por ciudad y día 
 
 La conclusión del proyecto afirma que, en base al análisis de datos, se puede confirmar la hipótesis. Sin embargo, se reconoce que hay otros factores que podrían influir en los resultados, como el medio de reproducción y el acceso a la música en cada ciudad.
 
+**Nota**: Este proyecto fue desarrollado como parte de mi formación en el bootcamp de Tripleten en el área de análisis de datos.
