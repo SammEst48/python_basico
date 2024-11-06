@@ -5,8 +5,7 @@ Este proyecto analiza datos de transmisión de música en línea para comparar l
 **Hipótesis**: La actividad de los usuarios y las usuarias difiere según el día de la semana y la ciudad donde se encuentre.
 
 ## Objetivos
-El enfoque principal es probar la siguiente hipótesis:
-**Hipótesis**: La actividad de los usuarios y las usuarias difiere según el día de la semana y la ciudad donde se encuentre.
+El enfoque principal es probar la siguiente hipótesis: La actividad de los usuarios y las usuarias difiere según el día de la semana y la ciudad donde se encuentre.
 
 ## Dataset
 - `'userID'`: identifica de forma exclusiva a cada usuario o usuaria;
